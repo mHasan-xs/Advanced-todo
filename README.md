@@ -401,34 +401,8 @@ git push origin feature/amazing-feature
 
 ---
 
-## 📄 License
-
-MIT © [Your Name]
-
----
-
-## 🙏 Acknowledgments
-
-- Inspired by world-class apps: Google Docs, Figma, Linear, Notion
-- React team for these amazing hooks
-- Community for feedback and contributions
-
----
-
-## 💬 Questions?
-
-- 📧 Email: your.email@example.com
-- 🐦 Twitter: [@yourhandle](https://twitter.com/yourhandle)
-- 💼 LinkedIn: [Your Name](https://linkedin.com/in/yourprofile)
-
----
-
 <div align="center">
 
 **⭐ If you found this helpful, please star the repo!**
-
-Made with ❤️ to help developers master modern React patterns
-
-[Live Demo](#) • [Report Bug](issues) • [Request Feature](issues)
 
 </div>
